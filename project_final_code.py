@@ -207,7 +207,7 @@ def main():
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
-        time_stats(df)
+        time_stats(df,month,days_of_week)
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
