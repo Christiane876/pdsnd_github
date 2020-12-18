@@ -1,17 +1,17 @@
-# Creation Date: 12/18/20
+### Creation Date: 12/18/20
 
-# Bikeshare project
+### Bikeshare project
 
-# Description
+### Description
 In this project python code is used to investigate US bikeshare data.
 The code consists of functions that calculate descriptive statistics and uncovers bikeshare usage patterns based on user input.
 
-# Files used
-bikeshare.py
-README.md
-.gitignore
+### Files used
+* bikeshare.py
+* README.md
+* .gitignore
 
-# Resources
+### Resources
 * https://www.pythoncheatsheet.org/
 * https://wiki.python.org/moin/BeginnersGuide/NonProgrammers
 * https://numpy.org/doc/stable/user/absolute_beginners.html
