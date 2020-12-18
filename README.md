@@ -7,7 +7,7 @@ In this project python code is used to investigate US bikeshare data.
 The code consists of functions that calculate descriptive statistics and uncovers bikeshare usage patterns based on user input.
 
 ### Files used
-* bikeshare.py
+* project_final_code.py
 * README.md
 * .gitignore
 
